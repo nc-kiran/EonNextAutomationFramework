@@ -1,2 +1,2 @@
 # EonNextAutomationFramework
-Test Framework developed using Python nehave framework
+Test Framework developed using Python behave framework
