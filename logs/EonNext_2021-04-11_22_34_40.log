@@ -1,0 +1,9 @@
+[DEBUG] : 2021-04-11 22:34:43,838 : DemoSteps.py : step_impl:10 : Launching the browser
+[DEBUG] : 2021-04-11 22:34:46,549 : DemoSteps.py : step_impl:16 : Entering the Username
+[DEBUG] : 2021-04-11 22:34:48,810 : DemoSteps.py : step_impl:23 : Entering the Password
+[DEBUG] : 2021-04-11 22:34:51,003 : DemoSteps.py : step_impl:30 : Page title is - Swag Labs
+[DEBUG] : 2021-04-11 22:34:53,272 : DemoSteps.py : step_impl:38 : Sorting the items by Price
+[DEBUG] : 2021-04-11 22:34:57,417 : DemoSteps.py : step_impl:50 : User adds the Cheapest item to the basket
+[DEBUG] : 2021-04-11 22:34:57,484 : DemoSteps.py : step_impl:60 : User adds the second costliest item to the basket
+[DEBUG] : 2021-04-11 22:34:59,487 : DemoSteps.py : step_impl:66 : Navigating to the basket
+[DEBUG] : 2021-04-11 22:35:01,573 : DemoSteps.py : step_impl:73 : Checking out the items
